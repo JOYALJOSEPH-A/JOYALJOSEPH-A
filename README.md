@@ -1,0 +1,6 @@
+- 🔭 I am currently working on The kerala goventments official chicken sales data
+- 🌱  I’m currently learning NLP,Deep Learning
+- 👯 I’m looking to collaborate on New projects
+- 📝 I regularly write articles on [Data science and Statistics](Data science and Statistics)
+- 📫 How to reach me joyaljoseph777@gmail.com
+- ⚡ Fun fact Iam actively looking for a new positions
